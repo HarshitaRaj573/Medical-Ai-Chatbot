@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -216,3 +217,25 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+=======
+# Secret API keys. Never commit this file.
+.env
+
+# Python virtual environments and generated files.
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Streamlit and operating-system files.
+.streamlit/
+.DS_Store
+.env
+.venv/
+venv/
+>>>>>>> 4a50718 (Build medical AI chatbot with MedQuAD, Pinecone and Gemini)
+.env
+.venv/
+venv/
+__pycache__/
+.DS_Store

@@ -1,0 +1,8 @@
+streamlit==1.62.0
+langchain-google-genai==4.4.0
+langchain-huggingface==1.2.2
+langchain-text-splitters>=1.0,<2.0
+pinecone==10.0.0
+pypdf==6.19.0
+python-dotenv==1.2.3
+sentence-transformers==6.0.1
